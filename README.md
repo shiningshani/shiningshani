@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shani
-- 👀 I’m interested in Coding, Chess, and humanities.
-- 🌱 I’m currently pursuing btech from IET Lucknow.
+- 👀 I’m interested in Coding, Full Stack Web Development, and Chess.
+- 🌱 Currently pursuing B.Tech from IET Lucknow.
 📫 Phone: 8858069897
 
 <!---
