@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shani
 - 👀 I’m interested in Coding, Full Stack Web Development, and Chess.
 - 🌱 Currently pursuing B.Tech from IET Lucknow.
-📫 Phone: 8858069897
+- ✉️ [Mail](mailto:shaniietian@gmail.com)
 
 [![@shiningshani's Holopin board](https://holopin.me/shiningshani)](https://holopin.io/@shiningshani)
 
